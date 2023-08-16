@@ -1,0 +1,63 @@
+
+
+/**/
+/*html {
+    font-size: 62.5%;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+}*/
+input[type="file"]  {
+    font-size: 1.1em;
+}
+/* End demo */
+
+/* Focus */
+input[type="file"]  {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+input[type="file"]:focus {
+    outline-color: currentColor;
+}
+
+/* Input File button */
+::-webkit-file-upload-button { /* Safari + Chrome + Opera + Edge */
+    -webkit-appearance: button; /* iOS Safari */
+    font-size: inherit;
+    font-weight: 600;
+    color: #fff;
+    background: var(--color-blue);
+    padding: .7em .9em;
+    cursor: pointer;
+    border: 0;
+    border-radius: 0; /* iOS Safari */
+}
+::-webkit-file-upload-button:hover { 
+    background: var(--color-bluehover); 
+}
+::-webkit-file-upload-button:focus { /* Edge + Chrome + Opera */ 
+    outline: 0; 
+}
+
+::file-selector-button { /* Firefox */
+    font-size: inherit;
+    font-weight: 600;
+    color: #fff;
+    background: var(--color-blue);
+    padding: .7em .9em;
+    cursor: pointer;
+    border: 0;
+}
+::file-selector-button:hover { 
+    background: var(--color-bluehover); 
+}
+
+#upload_button {
+  display: inline-block;
+}
+#upload_button input[type=file] {
+  display:none;
+}

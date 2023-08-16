@@ -1,0 +1,112 @@
+
+.total{
+  float: right;
+}
+
+.btn-buy{
+  font-size: 13px;
+}
+.btn-review{
+  font-size: 13px;
+}
+.btn-buy span{
+  padding-top: 3px;
+}
+
+.btn-review span{
+  padding-top: 3px;
+}
+
+
+.reviewed{
+  font-size: 13px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .orderItems {
+  width: inherit;
+    background: ;
+
+    position: fixed;
+    bottom: 30px;
+    left: 200px;
+  }
+  .total{
+   float: unset;
+  }
+  .btn-buy{
+  position: fixed;
+  font-size: 9px;
+padding-top: 10px;
+}
+
+  .btn-review{
+  position: fixed;
+  font-size: 9px;
+padding-top: 10px;
+}
+
+.btn-buy span{
+  padding-top: 7px;
+}
+
+.btn-review span{
+  padding-top: 7px;
+}
+
+
+.reviewed{
+  position: fixed;
+  right: 30px;
+}
+
+.orderItems {
+  bottom: 50px;
+ }
+.btn-review{
+  left: 215px;
+}
+}
+@media only screen and (max-width: 900px) {
+
+.orderStatus{
+  font-size: 11px;
+}
+.orderCode{
+  font-size:11px;
+}
+}
+
+
+@media only screen and (max-width: 700px) {
+b{
+  font-size: 9px;
+}
+.orderStatus{
+  font-size: 9px;
+}
+.orderCode{
+  font-size: 9px;
+}
+
+.orderPlaced{
+  font-size: 9px;
+}
+
+
+ .orderItems {
+  bottom: 50px;
+ }
+
+.reviewed{
+   bottom: 5px;
+   font-size: 9px;
+}
+
+.btn-review{
+  left: 215px;
+}
+
+}
+
+

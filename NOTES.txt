@@ -1,0 +1,41 @@
+(x)testing keyboard table to Printer
+
+
+
+
+- reviews table and forums table
+
+- (x)paying transaction table
+
+(x)controller
+
+-(x)power supply calculator
+
+- (x)start scoring
+
+- (x)search
+
+- (x)start
+
+- (x)skip & back
+
+- (x)monitor Resolution carlos
+
+- (X)order table 
+
+- Cancel Order
+
+- profile Edit
+
+-(x)Must be a Number Only
+  1. Processor Speed
+  2. Memory Size 
+  3. Harddrive Capacity
+
+
+
+  (last priority)
+  - chart
+  - edit profile
+  - cart
+
