@@ -1,6 +1,6 @@
 # ByteShop PC Builder and Tech Enthusiast Community
 
-> Complete, built with  Laravel, JavaScript, CSS, HTML, and MySQL
+> Built with  Laravel, JavaScript, CSS, HTML, and MySQL
 
 Welcome to ByteShop, your go-to platform for creating personalized PC builds and engaging in collaborative tech discussions. Combining innovative technologies with a user-friendly interface, ByteShop empowers users to bring their dream PC configurations to life and connect with a passionate community of tech aficionados.
 
