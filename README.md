@@ -17,6 +17,6 @@ Not looking to customize? Explore our handpicked selection of prebuilt PCs, cate
 Immerse yourself in our vibrant community forum, connecting tech enthusiasts from all walks of life. Share your PC builds, seek advice, discuss the latest hardware trends, and collaborate on innovative ideas. ByteShop's forum is a supportive hub for knowledge sharing and collaborative exploration.
 
 ## 🌐 Powered by Modern Technologies
-Built using Laravel, JavaScript, CSS, and HTML, ByteShop ensures a modern, responsive, and intuitive web experience. Expect fast loading speeds, seamless interactions, and a visually appealing interface.
+Built using Laravel, JavaScript, CSS, HTML, and MySQL, ByteShop ensures a modern, responsive, and intuitive web experience. Expect fast loading speeds, seamless interactions, and a visually appealing interface.
 
 Whether you're a seasoned PC builder or new to the world of tech customization, ByteShop offers a welcoming environment to unleash your creativity, gain valuable insights, and be part of a dynamic tech community.
